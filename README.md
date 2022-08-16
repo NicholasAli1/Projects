@@ -1,6 +1,6 @@
 # Personal Projects
 
-This is a repository filled with personal projects that I myself have worked on.
+This is a repository filled with personal projects I myself have worked on.
 
 # Project List
 - [Discord Bot](https://github.com/NicholasAli1/DiscordBot)
