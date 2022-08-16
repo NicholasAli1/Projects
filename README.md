@@ -3,9 +3,9 @@
 This is a repository filled with personal projects that I myself have worked on.
 
 # Project List
-- [Discord Bot](https://github.com/ETWGames/DiscordBot)
-- [A* Pathfinding Algorithm Visualizer](https://github.com/ETWGames/A-Star-Path-Finding-Algorithm)
-- [Proof of Concept Web3 NFT Project](https://github.com/ETWGames/NFTProject)
+- [Discord Bot](https://github.com/NicholasAli1/DiscordBot)
+- [A* Pathfinding Algorithm Visualizer](https://github.com/NicholasAli1/A-Star-Path-Finding-Algorithm)
+- [Proof of Concept Web3 NFT Project](https://github.com/NicholasAli1/NFTProject)
 
 ## Contact Information 
 Email: nnicholass32@gmail.com
