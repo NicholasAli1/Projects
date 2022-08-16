@@ -6,6 +6,8 @@ This is a repository filled with personal projects that I myself have worked on.
 - [Discord Bot](https://github.com/NicholasAli1/DiscordBot)
 - [A* Pathfinding Algorithm Visualizer](https://github.com/NicholasAli1/AStarPathfindingVisualizer)
 - [Proof of Concept Web3 Crypto Project](https://github.com/NicholasAli1/Web3.0)
+- [](https://github.com/NicholasAli1/TowerDefenseGame)
+- [](https://github.com/NicholasAli1/SpaceGame)
 
 ## Contact Information 
 Email: nnicholass32@gmail.com
