@@ -4,6 +4,7 @@ This is a repository filled with personal projects I myself have worked on.
 
 # Project List
 - [Full Stack Chat Messaging App](https://github.com/NicholasAli1/Chat-Message-App)
+- [ChatBot Created Using Machine Learning](https://github.com/NicholasAli1/ChatBot)
 - [Discord Bot](https://github.com/NicholasAli1/DiscordBot)
 - [A* Pathfinding Algorithm Visualizer](https://github.com/NicholasAli1/AStarPathfindingVisualizer)
 - [Proof of Concept Web3 Crypto Project](https://github.com/NicholasAli1/Web3.0)
