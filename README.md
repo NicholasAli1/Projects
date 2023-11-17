@@ -7,7 +7,6 @@ This is a repository filled with personal projects I myself have worked on.
 - [ChatBot Created Using Machine Learning](https://github.com/NicholasAli1/ChatBot)
 - [Discord Bot](https://github.com/NicholasAli1/DiscordBot)
 - [A* Pathfinding Algorithm Visualizer](https://github.com/NicholasAli1/AStarPathfindingVisualizer)
-- [Proof of Concept Web3 Crypto Project](https://github.com/NicholasAli1/Web3.0)
 - [Tower Defense Game](https://github.com/NicholasAli1/TowerDefenseGame)
 - [80s Inspired 2D Space Based Shooter](https://github.com/NicholasAli1/SpaceGame)
 
